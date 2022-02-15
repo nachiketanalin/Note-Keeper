@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Note-Keeper/static/js/main.86f53bda.chunk.js",
+    "main.js.map": "/Note-Keeper/static/js/main.86f53bda.chunk.js.map",
+    "runtime-main.js": "/Note-Keeper/static/js/runtime-main.0e255702.js",
+    "runtime-main.js.map": "/Note-Keeper/static/js/runtime-main.0e255702.js.map",
+    "static/js/2.8a02f188.chunk.js": "/Note-Keeper/static/js/2.8a02f188.chunk.js",
+    "static/js/2.8a02f188.chunk.js.map": "/Note-Keeper/static/js/2.8a02f188.chunk.js.map",
+    "index.html": "/Note-Keeper/index.html",
+    "precache-manifest.b6a37c15a8ca8d2708d83d6675f3f846.js": "/Note-Keeper/precache-manifest.b6a37c15a8ca8d2708d83d6675f3f846.js",
+    "service-worker.js": "/Note-Keeper/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e255702.js",
+    "static/js/2.8a02f188.chunk.js",
+    "static/js/main.86f53bda.chunk.js"
+  ]
+}
